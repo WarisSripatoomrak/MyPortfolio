@@ -1,2 +1,2 @@
-# warismyportfolio.github.io
+# portfolio.github.io
 My Own Portfolio Page!
